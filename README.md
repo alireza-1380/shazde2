@@ -1,29 +1,4 @@
-# 🎮 Shazdeh - Three-Level Puzzle Game | بازی معمایی سه‌مرحله‌ای شازده
 
----
-
-## 🇬🇧 English Description
-
-**Shazdeh** is a fun and engaging Persian riddle game inspired by the Qajar royal court. It features traditional design, Persian fonts, background music, and smart feedback across three difficulty levels.
-
-### 📌 Features
-- Three levels: Easy, Medium, Hard
-- Fully Persian interface
-- Traditional visuals and Persian font
-- Background music and cheer sound effect
-- Smart responses to correct and wrong answers
-
-### 🚀 How to Run
-1. Put all files (HTML, images, and audio) in one folder.  
-2. Open the `index.html` file in a modern browser (Chrome/Firefox).  
-3. Click **Start Game** and enjoy!
-
-### 👨‍💻 Developer
-**Alireza Hamidi**  
-Primary Education Expert – Digital Content Creator  
-📧 Email: your@email.com
-
----
 
 ## 🇮🇷 توضیحات فارسی
 
